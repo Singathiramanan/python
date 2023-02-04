@@ -1,0 +1,19 @@
+
+POST Requests
+--------------
+https://demoshoppingcartapi.herokuapp.com/login
+https://demoshoppingcartapi.herokuapp.com/register
+https://demoshoppingcartapi.herokuapp.com/addbook
+https://demoshoppingcartapi.herokuapp.com/removebook
+https://demoshoppingcartapi.herokuapp.com/pay
+
+
+GET Requests
+-------------
+https://demoshoppingcartapi.herokuapp.com/books
+https://demoshoppingcartapi.herokuapp.com/search?title=states
+https://demoshoppingcartapi.herokuapp.com/search?author=chetan
+https://demoshoppingcartapi.herokuapp.com/search?category=health
+https://demoshoppingcartapi.herokuapp.com/sort?by=author
+https://demoshoppingcartapi.herokuapp.com/sort?by=title
+https://demoshoppingcartapi.herokuapp.com/sort?by=price
