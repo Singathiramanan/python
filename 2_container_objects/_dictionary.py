@@ -22,32 +22,6 @@ location = {'country': 'India', 'states': ['Karnataka', 'Andra', 'Kerala']}
 points = {'a': 1, 'b': 2, 'c': 3}
 
 # Nested Dictionary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 prices = {'IBM': {'current': 90.1, 'low': 88.3, 'high': 92.7}, 'HP': {"current": 29.70, "low": 28.30, "high": 31.2} }
 
 # accessing inner dictionary
